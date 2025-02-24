@@ -36,9 +36,9 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-**=======================================**
+**==================================================**
 # Software Engineering Day 1 Assignment
-**=======================================**
+**==================================================**
 
 ## Part 1: Introduction to Software Engineering
 **-----------------------------------------------------------------------------**
@@ -109,9 +109,9 @@ Rigid scope; minimal changes.	                              |  Flexible; embrace
 
 ***Acceptance***: Ensures user requirements are met (UAT).
 
-**===================================================**
+**===============================================================**
 ## Part 2: Introduction to AI and Prompt Engineering
-**===================================================**
+**===============================================================**
 
 #### 1. Prompt Engineering
 Crafting precise inputs to guide AI models (ChatGPT) toward desired outputs. It’s critical for reducing ambiguity and improving response accuracy.
