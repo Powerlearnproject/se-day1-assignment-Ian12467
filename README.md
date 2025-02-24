@@ -50,7 +50,7 @@ Software engineering is the systematic application of engineering principles to 
 
 ***1968 NATO Conference***: Coined the term "software engineering" to address the "software crisis" of unreliable and over-budget projects.
 
-***1980s Object-Oriented Programming (OOP)**: Introduced modularity, improving code reuse and maintainability.
+***1980s Object-Oriented Programming (OOP)***: Introduced modularity, improving code reuse and maintainability.
 
 ***2001 Agile Manifesto***: Prioritized flexibility, customer collaboration, and iterative development over rigid processes.
 
