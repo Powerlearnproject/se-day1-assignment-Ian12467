@@ -36,9 +36,9 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-**==================================================**
+**=========================================================**
 # Software Engineering Day 1 Assignment
-**==================================================**
+**=========================================================**
 
 ## Part 1: Introduction to Software Engineering
 **-----------------------------------------------------------------------------**
@@ -73,7 +73,6 @@ Software engineering is the systematic application of engineering principles to 
 Waterfall	                                                  |  Agile
 ------------------------------------------------------------|--------------------------------------------------------------
 Linear, sequential phases.	                                |  Iterative, incremental cycles.
----------------------------------------------------------------------------------------------------------------------------
 Rigid scope; minimal changes.	                              |  Flexible; embraces changing requirements.
 ---------------------------------------------------------------------------------------------------------------------------
 
